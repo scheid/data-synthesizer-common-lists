@@ -1,0 +1,11 @@
+{
+  "name": "data-synthesizer-common-lists",
+  "version": "1.0.0",
+  "description": "common types of lists you can use with the data synthesizer (or really any other javascript project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Todd Eischeid",
+  "license": "ISC"
+}
